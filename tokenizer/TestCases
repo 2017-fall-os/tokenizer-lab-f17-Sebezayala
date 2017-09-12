@@ -1,0 +1,9 @@
+#! /bin/bash
+./test << EOF
+Hello my dog's name is Darwin.
+    Hello   World!   
+
+        
+HelloWorld
+exit
+EOF
